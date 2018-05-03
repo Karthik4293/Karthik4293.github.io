@@ -3,11 +3,13 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
+Hello there Visitor,
 
-Lorem ipsum.
+Thanks for stopping by. I'm still working on my portfolio. Feel free to wander around here.
+
+good day 

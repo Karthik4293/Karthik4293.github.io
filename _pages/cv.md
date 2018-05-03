@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Testing Science, Testing University, 2012
-* M.S. in Testonomy, Testing University, 2014
-* Ph.D in Testology, Testing University, 2017 (expected)
+* M.S in Computer Engineering, Stony Brook University, 2017-18
+* B.E in ECE
+*
 
 Work experience
 ======
@@ -26,7 +26,7 @@ Work experience
   * Testing University
   * Duties included: Running Tests
   * Supervisor: Professor Travis
-  
+
 Skills
 ======
 * Skill 1
@@ -41,19 +41,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 49 different slack teams
