@@ -82,8 +82,9 @@ author:
   bio              : "Graduate Student in Computer Engineering at Stony Brook University"
   location         : "Stony Brook, New York"
   employer         :
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
-  email            :
+  googlescholar    :
+  email            : "karthik4293@gmail.com"
+  linkedin         : "https://www.linkedin.com/in/karthik4293/"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +97,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/9407894/karthik"
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : "@kart_rage"
   vine             :
   weibo            :
   xing             :
