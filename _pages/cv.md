@@ -9,16 +9,18 @@ redirect_from:
 
 Education
 ======
-
-* M.S in Computer Engineering, Stony Brook University,  2017-18
-* B.E in Electronics and Communications, UVCE Bangalore, 2010-2014
+-----
+* M.S in Computer Engineering
+  <b>Stony Brook University</b>, 2017-18
+* B.E in Electronics and Communications
+  <b>UVCE Bangalore</b>, 2010-2014
 
 Work experience
 ======
 ------
 
 Summer 2018: Graduate Research Assistant
-  * Advisor: Professor Yuefan Deng
+  * Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>'s
   * Research interests:
     * Deep local feature extraction for image retrieval
     * High performance tests
@@ -41,5 +43,6 @@ Skills
 
 Fields of Interests
 ====
+-----
   * High Performance Scientific Computing
   * Machine learning and Computer Vision
