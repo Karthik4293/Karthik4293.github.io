@@ -6,23 +6,16 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+
 Education
 =====
------
-<b>Stony Brook University, 2017-18</b>
-   M.S in Computer Engineering
-
-<b>UVCE Bangalore, 2010-14</b>
-   B.E in Electronics and Communications
-
-Education
 ------  
-<b>UC Irvine (2018 - ...)</b>  
-Ph.D. Computer Science  
+<b>Stony Brook University (2017-19)</b>  
+M.S Computer Science  
 
-<b>UCSD (2014 - 2018)</b>  
-B.S. Mathematics-Computer Science  
-B.S. Cognitive Science w/ Specialization in Human-Computer Interaction  
+<b>UVCE Bangalore (2010-14)</b>  
+B.E in Electronics and Communications  
 
 
 Work experience
