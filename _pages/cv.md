@@ -18,13 +18,13 @@ Education
 Work experience
 ------
 
-Summer 2018: Graduate Research Assistant
+<b>Graduate Research Assistant</b>
   * Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>
   * Research interests:
     * Deep local feature extraction for image retrieval
     * High performance tests
 
-Network Engineer (2015 - 2017)
+<b>Network Engineer (2015 - 2017)</b>
   * Ericsson Global private limited
   * Bangalore, India
 
