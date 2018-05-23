@@ -18,6 +18,8 @@ M.S Computer Science
 B.E in Electronics and Communications  
 
 
+
+
 Work experience
 =====
 -----
@@ -31,6 +33,9 @@ Work experience
   * Ericsson Global private limited
   * Bangalore, India
 
+
+
+
 Skills
 =====
 -----
@@ -42,6 +47,9 @@ Skills
   * Linux (User and kernel level)
   * GPFS and PBS
   * Windows
+
+
+
 
 Fields of Interests
 -----
