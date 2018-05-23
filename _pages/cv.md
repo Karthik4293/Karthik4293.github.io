@@ -10,16 +10,14 @@ Education
 =====
 -----
 <b>Stony Brook University, 2017-18</b>
-M.S in Computer Engineering
+   M.S in Computer Engineering
 
 <b>UVCE Bangalore, 2010-2014</b>
-B.E in Electronics and Communications
+   B.E in Electronics and Communications
 
 
 Work experience
 =====
------
-Emphasize
 -----
 <b>Graduate Research Assistant</b>
   * Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>
@@ -34,11 +32,11 @@ Emphasize
 Skills
 =====
 -----
-* Programming languages
+<b>Programming languages</b>
   * C, C++ (CPP 11, STL, Multithreading, Boost), Java, System Verilog(HDL)
   * Scripting : Python, Shell Scripting
 
-* Operating System and tools
+<b>Operating System and tools</b>
   * Linux (User and kernel level)
   * GPFS and PBS
   * Windows
