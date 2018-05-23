@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+---
 Education
+-----
 ======
 * M.S in Computer Engineering, Stony Brook University,  2017-18
 * B.E in Electronics and Communications, UVCE Bangalore, 2010-2014
