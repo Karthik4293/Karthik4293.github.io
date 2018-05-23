@@ -15,27 +15,26 @@ Education
 
 Work experience
 ======
+------
 
 Summer 2018: Graduate Research Assistant
-----
   * Advisor: Professor Yuefan Deng
   * Research interests:
     * Deep local feature extraction for image retrieval
     * High performance tests
 
 Network Engineer (2015 - 2017)
-----
   * Ericsson Global private limited
   * Bangalore, India
 
 Skills
 ======
+-----
 * Programming languages
-----
   * C, C++ (CPP 11, STL, Multithreading, Boost), Java, System Verilog(HDL)
   * Scripting : Python, Shell Scripting
+
 * Operating System and tools
-----
   * Linux (User and kernel level)
   * GPFS and PBS
   * Windows
