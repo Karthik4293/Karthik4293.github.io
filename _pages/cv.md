@@ -9,11 +9,11 @@ redirect_from:
 Education
 =====
 -----
-<b>Stony Brook University, 2017-18</b>
+*<b>Stony Brook University, 2017-18</b>
    M.S in Computer Engineering
 
 <b>UVCE Bangalore, 2010-2014</b>
-   B.E in Electronics and Communications
+   B.E in Electronics and Communications*
 
 
 Work experience
