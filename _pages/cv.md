@@ -8,19 +8,18 @@ redirect_from:
 ---
 
 Education
-======
 -----
-* M.S in Computer Engineering
-  <b>Stony Brook University</b>, 2017-18
-* B.E in Electronics and Communications
-  <b>UVCE Bangalore</b>, 2010-2014
+<b>Stony Brook University</b>, 2017-18
+   M.S in Computer Engineering
+<b>UVCE Bangalore</b>, 2010-2014
+   B.E in Electronics and Communications
+
 
 Work experience
-======
 ------
 
 Summer 2018: Graduate Research Assistant
-  * Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>'s
+  * Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>
   * Research interests:
     * Deep local feature extraction for image retrieval
     * High performance tests
@@ -30,7 +29,6 @@ Network Engineer (2015 - 2017)
   * Bangalore, India
 
 Skills
-======
 -----
 * Programming languages
   * C, C++ (CPP 11, STL, Multithreading, Boost), Java, System Verilog(HDL)
@@ -42,7 +40,6 @@ Skills
   * Windows
 
 Fields of Interests
-====
 -----
   * High Performance Scientific Computing
   * Machine learning and Computer Vision
