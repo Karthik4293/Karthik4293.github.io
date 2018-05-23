@@ -24,14 +24,14 @@ Work experience
 =====
 -----
 <b>Graduate Research Assistant</b>
-  * Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>
-  * Research interests:
+Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>
+Research interests:
     * Deep local feature extraction for image retrieval
     * High performance tests
 
 <b>Network Engineer (2015-17)</b>
-  * Ericsson Global private limited
-  * Bangalore, India
+Ericsson Global private limited
+Bangalore, India
 
 
 
