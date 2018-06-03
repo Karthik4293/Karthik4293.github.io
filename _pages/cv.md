@@ -45,3 +45,8 @@ Bangalore, India<br/>
 -----
 * High Performance Scientific Computing
 * Machine learning and Computer Vision
+
+-----
+Download
+=====
+<span style="color:blue"><a href='http://www.karthik4293.me/files/Resume.pdf' target='_blank'>Resume</a></span>  
