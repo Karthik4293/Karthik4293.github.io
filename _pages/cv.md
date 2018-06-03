@@ -13,6 +13,7 @@ redirect_from:
 &nbsp;
 <b>Stony Brook University (2017-19)</b>  
 &nbsp;
+&nbsp;
 M.S Computer Engineering  
 <br/>
 <br/>
@@ -20,6 +21,7 @@ M.S Computer Engineering
 &nbsp;
 &nbsp;
 <b>Bangalore University (2010-14)</b>  
+&nbsp;
 &nbsp;
 B.E in Electronics and Communications <br/>
 &nbsp;
