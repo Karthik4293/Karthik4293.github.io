@@ -19,9 +19,9 @@ B.E in Electronics and Communications <br/>
 
 ## Work experience
 -----
-<b>Graduate Research Assistant</b>  
-- Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>  
-- Research interests:
+<b>Graduate Research Assistant</b>
++ Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>
++ Research interests:
    * Deep local feature extraction for image retrieval
    * High performance tests  
 
@@ -31,12 +31,12 @@ Bangalore, India<br/>
 
 
 ## Skills
------
-<b>Programming languages</b>  
+------
+- <b>Programming languages</b>
 * C, C++ (CPP 11, STL, Multithreading, Boost), Java, System Verilog(HDL)
 * Scripting : Python, Shell Scripting  
 
-<b>Operating System and tools</b>  
+- <b>Operating System and tools</b>
 * Linux (User and kernel level)
 * GPFS and PBS
 * Windows<br/>
