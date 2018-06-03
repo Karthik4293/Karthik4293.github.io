@@ -15,7 +15,7 @@ redirect_from:
 M.S Computer Engineering  
 <br/>
 <br/>
-<img align="left" width="80" src="/images/BU_logo.jpg">
+<img align="left" width="85" src="/images/BU_logo.jpg">
 &nbsp;
 <b>Bangalore University (2010-14)</b>  
 &nbsp;
