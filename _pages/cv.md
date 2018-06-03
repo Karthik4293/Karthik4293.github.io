@@ -8,6 +8,7 @@ redirect_from:
 ---
 ## Education
 ------  
+<img src="https://github.com/Karthik4293/Karthik4293.github.io/tree/master/images/SBU_logo_1" align=right width=90>
 <b>Stony Brook University (2017-19)</b>  
 M.S Computer Science  
 
@@ -28,7 +29,7 @@ Ericsson Global private limited
 Bangalore, India<br/>
 
 
-## Skills
+## Technical expertise
 ------
 <b>Programming languages</b>
    * C, C++ (CPP 11, STL, Multithreading, Boost), Java
