@@ -19,8 +19,8 @@ B.E in Electronics and Communications <br/>
 
 ## Work experience
 -----
-<b>Graduate Research Assistant</b>
-Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>
+<b>Graduate Research Assistant</b>  
+Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>  
 Research interests:  
    - Deep local feature extraction for image retrieval
    - High performance tests  
