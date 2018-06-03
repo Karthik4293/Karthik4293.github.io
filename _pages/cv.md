@@ -11,7 +11,7 @@ redirect_from:
 <img align="left" width="80" src="/images/SBU_logo_1.jpg">
 <b>Stony Brook University (2017-19)</b>  
 M.S Computer Engineering  
-
+&nbsp;
 <img align="left" width="80" src="/images/BU_logo.jpg">
 <b>Bangalore University (2010-14)</b>  
 B.E in Electronics and Communications <br/>
