@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-
 ## Education
 ------  
 <b>Stony Brook University (2017-19)</b>  
@@ -40,14 +38,16 @@ Bangalore, India<br/>
 
 <b>Operating System and tools</b>
 * Linux (User and kernel level)
-  * Multithreading Posix threads
+  * Multithreading using Posix threads
   * GPFS, PBS and CRON schedulers
 * Windows (CLI)<br/>
+
 
 ## Fields of Interests
 -----
 * High Performance Scientific Computing
 * Machine learning and Computer Vision
+* Neural Networks and Deep learning
 
 -----
 ## Download
