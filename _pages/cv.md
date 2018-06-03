@@ -33,13 +33,16 @@ Bangalore, India<br/>
 ## Skills
 ------
 <b>Programming languages</b>
-   * C, C++ (CPP 11, STL, Multithreading, Boost), Java, System Verilog(HDL)
-   * Scripting : Python, Shell Scripting  
+   * C, C++ (CPP 11, STL, Multithreading, Boost), Java
+   * Scripting : Python, Shell Scripting
+   * Hardware description : System Verilog
+   * Simulation and EDA : MatLab Simulink, ModelSim  
 
 <b>Operating System and tools</b>
 * Linux (User and kernel level)
-* GPFS and PBS
-* Windows<br/>
+  * Multithreading Posix threads
+  * GPFS, PBS and CRON schedulers
+* Windows (CLI)<br/>
 
 ## Fields of Interests
 -----
