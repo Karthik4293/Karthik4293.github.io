@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Education
 ------  
-<img align="right" src="/images/SBU_logo_1.jpg">  
+<img align="left" width=10 src="/images/SBU_logo_1.jpg">  
 <b>Stony Brook University (2017-19)</b>  
 M.S Computer Science  
 
