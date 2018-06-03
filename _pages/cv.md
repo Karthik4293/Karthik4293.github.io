@@ -10,12 +10,14 @@ redirect_from:
 ------  
 <img align="left" width="80" src="/images/SBU_logo_1.jpg">
 &nbsp;
+&nbsp;
 <b>Stony Brook University (2017-19)</b>  
 &nbsp;
 M.S Computer Engineering  
 <br/>
 <br/>
 <img align="left" width="86" src="/images/BU_logo.jpg">
+&nbsp;
 &nbsp;
 <b>Bangalore University (2010-14)</b>  
 &nbsp;
