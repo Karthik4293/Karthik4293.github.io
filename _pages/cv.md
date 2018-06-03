@@ -18,7 +18,7 @@ M.S Computer Science
 B.E in Electronics and Communications  
 
 
-
+<br/>
 
 Work experience
 =====
@@ -26,8 +26,8 @@ Work experience
 <b>Graduate Research Assistant</b>  
 Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>  
 Research interests:
-    * Deep local feature extraction for image retrieval
-    * High performance tests
+* Deep local feature extraction for image retrieval
+* High performance tests  
 <br/>
 <b>Network Engineer (2015-17)</b>  
 Ericsson Global private limited  
@@ -35,16 +35,14 @@ Bangalore, India
 
 <br/>
 
-
-
 Skills
 =====
 -----
-<b>Programming languages</b>
+<b>Programming languages</b>  
   * C, C++ (CPP 11, STL, Multithreading, Boost), Java, System Verilog(HDL)
   * Scripting : Python, Shell Scripting
-<p>
-<b>Operating System and tools</b>
+<br/>
+<b>Operating System and tools</b>  
   * Linux (User and kernel level)
   * GPFS and PBS
   * Windows
