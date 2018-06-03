@@ -47,6 +47,6 @@ Bangalore, India<br/>
 * Machine learning and Computer Vision
 
 -----
-Download
-=====
+## Download
+
 <span style="color:blue"><a href='http://www.karthik4293.me/files/Resume.pdf' target='_blank'>Resume</a></span>  
