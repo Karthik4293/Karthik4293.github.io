@@ -8,8 +8,13 @@ redirect_from:
 ---
 ## Education
 ------  
+<div class='w3-container'>
 
-<img src="https://github.com/Karthik4293/Karthik4293.github.io/tree/master/images/SBU_logo_1.jpg" align=right width=90>
+<p align='center'>
+
+<img style='float: right;' src='/images/SBU_logo_1.jpg' hspace='20'>
+
+<br/>
 <b>Stony Brook University (2017-19)</b>  
 M.S Computer Science  
 
