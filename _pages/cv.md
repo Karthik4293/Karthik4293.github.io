@@ -33,7 +33,6 @@ Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/am
 Research interests:  
    - Deep local feature extraction for image retrieval
    - High performance tests  
-
 <b>Network Engineer (2015-17)</b>  
 Ericsson Global private limited  
 Bangalore, India<br/>
@@ -46,6 +45,12 @@ Bangalore, India<br/>
    * Scripting : Python, Shell Scripting
    * Hardware description : System Verilog
    * Simulation and EDA : MatLab Simulink, ModelSim  
+
+<b>Parallel Computing Frameworks</b>
+   * CUDA
+   * OpenCL
+   * OpenMP
+   * MPI  
 
 <b>Operating System and tools</b>
 * Linux (User and kernel level)
