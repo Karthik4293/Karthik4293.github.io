@@ -9,12 +9,12 @@ redirect_from:
 ## Education
 ------  
 <img align="left" width="80" src="/images/SBU_logo_1.jpg">
-<b><br><br><br>Stony Brook University (2017-19)</b>  
-<br><br><br>M.S Computer Science  
+<b>   Stony Brook University (2017-19)</b>  
+   M.S Computer Science  
 
 <img align="left" width="80" src="/images/BU_logo.jpg">
-<b><br><br><br>Bangalore University (2010-14)</b>  
-<br><br><br>B.E in Electronics and Communications <br/>
+<b>   Bangalore University (2010-14)</b>  
+    B.E in Electronics and Communications <br/>
 
 
 ## Work experience
