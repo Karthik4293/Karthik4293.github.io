@@ -18,6 +18,7 @@ M.S Computer Engineering
 <img align="left" width="80" src="/images/BU_logo.jpg">
 <b>Bangalore University (2010-14)</b>  
 &nbsp;
+&nbsp;
 B.E in Electronics and Communications <br/>
 &nbsp;
 
