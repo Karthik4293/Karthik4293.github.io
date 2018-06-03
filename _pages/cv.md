@@ -32,11 +32,11 @@ Bangalore, India<br/>
 
 ## Skills
 ------
-- <b>Programming languages</b>
+<b>Programming languages</b>  
 * C, C++ (CPP 11, STL, Multithreading, Boost), Java, System Verilog(HDL)
 * Scripting : Python, Shell Scripting  
 
-- <b>Operating System and tools</b>
+- <b>Operating System and tools</b>  
 * Linux (User and kernel level)
 * GPFS and PBS
 * Windows<br/>
