@@ -29,14 +29,14 @@ B.E in Electronics and Communications <br/>
 ## Work experience
 -----
 <b>Research Assistant (Summer 2018)</b>  
-Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng'>Professor Yuefan Deng</a></span>  
+Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng' target='_blank'>Professor Yuefan Deng</a></span>  
 Research interests:  
    - Deep local feature extraction for image retrieval
    - High performance tests  
 
-<b>Graduate Teaching Assistant (Fall 2018)</b>
-Course: <span style="color:blue"><a href='http://www.ece.stonybrook.edu/~murali/syllabus-ese358-f2016-v2.pdf'>ESE 358.01 Computer Vision</a></span>
-Faculty Instructor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/subbarao_murali'>Professor Murali Subbarao</a></span>
+<b>Graduate Teaching Assistant (Fall 2018)</b>  
+Course: <span style="color:blue"><a href='http://www.ece.stonybrook.edu/~murali/syllabus-ese358-f2016-v2.pdf' target='_blank'>ESE 358.01 Computer Vision</a></span>  
+Faculty Instructor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/subbarao_murali' target='_blank'>Professor Murali Subbarao</a></span>  
 
 <b>Network Engineer (2015-17)</b>  
 Ericsson Global private limited  
