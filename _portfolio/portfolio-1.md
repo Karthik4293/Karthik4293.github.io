@@ -1,6 +1,8 @@
 ---
 title: ""
----
+exerpt: "
+
+-----------------
 
 <div class='w3-container'>
 
@@ -25,3 +27,7 @@ Decoder, dual pipelined ALU , Data forwarding using forwarding Macro and Local S
 </div>
 <br/>
 <br/>
+
+"
+collection: portfolio
+---
