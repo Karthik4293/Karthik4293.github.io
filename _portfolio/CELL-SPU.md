@@ -8,7 +8,7 @@ excerpt: "
 
 <p align='center'>
 
-<img style='float: right;' src='/images/CELL_SPU.jpg' hspace='20'>
+<img style='float: right;' src='/images/CELL_SPU.jpg' hspace='15'>
 
 <br/>
 
