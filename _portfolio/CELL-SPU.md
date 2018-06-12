@@ -6,7 +6,7 @@ excerpt: "
 
 <div class='w3-container'>
 
-<p align='right'>
+<p align='left'>
 
 <img style='float: right;' width = '400' src='/images/CELL_SPU.jpg' hspace='15'>
 
