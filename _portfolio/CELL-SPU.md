@@ -1,6 +1,8 @@
 ---
 title: ""
-exerpt: "  
+excerpt: "  
+
+----------------
 
 <div class='w3-container'>
 
