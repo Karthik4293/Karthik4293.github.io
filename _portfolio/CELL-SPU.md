@@ -1,8 +1,6 @@
 ---
 title: ""
 exerpt: "  
-     
------------------
 
 <div class='w3-container'>
 
@@ -11,7 +9,7 @@ exerpt: "
 <img style='float: right;' src='/images/CELL_SPU.jpg' hspace='20'>
 
 <br/>
-  
+
 <b>Design and modeling of CELL-SPU</b><br/>
 >A dual-issue Multimedia Processor based on SONY CELL architecture.
 
