@@ -15,7 +15,8 @@ excerpt: "
 <b>Design and modeling of CELL-SPU</b><br/>
 A dual-issue Multimedia Processor based on CELL architecture.<br/>  
   
-[<img style='float: left;' width = '40' src='/images/git.png'>](https://github.com/Karthik4293/Hardware_generation_tool_for_Neural_Networks)
+[<img style='float: left;' width = '40' src='/images/git.png' url ='https://github.com/Karthik4293/Hardware_generation_tool_for_Neural_Networks'>]
+
 
 </p>
 </div>
