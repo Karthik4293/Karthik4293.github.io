@@ -10,8 +10,6 @@ excerpt: "
 <br/>
 <img style='float: right;' width = '400' src='/images/CELL_SPU.jpg' hspace='15'>  
 
-<br/>
-
 <b>Design and modeling of CELL-SPU</b><br/>
 <i>A dual-issue Multimedia Processor based on CELL architecture.</i><br/>  
 <br/>
