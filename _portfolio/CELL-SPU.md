@@ -4,8 +4,8 @@ excerpt: "<i>A dual-issue Multimedia Processor based on CELL architecture.</i><b
 collection: portfolio
 ---
 
-<i>A dual-issue Multimedia Processor based on CELL architecture.</i>  
-###### March 2018  
+<i>A dual-issue Multimedia Processor based on CELL architecture.</i>
+##### March 2018  
 
 <br/>
 
