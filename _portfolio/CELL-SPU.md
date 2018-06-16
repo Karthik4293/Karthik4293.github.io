@@ -16,8 +16,7 @@ excerpt: "
 A dual-issue Multimedia Processor based on CELL architecture.<br/>  
 <br/>
 
-<span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng' target='_blank'><img style='float: left;' width = '25' src='/images/git.png'></a></span>
-<br/>
+<span><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng' target='_blank'><img style='float: left;' width = '25' src='/images/git.png'></a></span>
 
 </p>
 </div>
