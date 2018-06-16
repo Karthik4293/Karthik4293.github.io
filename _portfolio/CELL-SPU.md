@@ -16,7 +16,7 @@ excerpt: "
 A dual-issue Multimedia Processor based on CELL architecture.<br/>  
 <br/>
 
-![Take me to Source](img style='float: left;' width = '25' src='/images/git.png')('https://github.com/Karthik4293/Hardware_generation_tool_for_Neural_Networks') <br/>
+![git.png](img style='float: left;' width = '25' src='/images/git.png')('https://github.com/Karthik4293/Hardware_generation_tool_for_Neural_Networks') <br/>
 
 </p>
 </div>
