@@ -1,6 +1,6 @@
 ---
 title: "Design and modeling of CELL-SPU"
-excerpt: "<i>A dual-issue Multimedia Processor based on CELL architecture.</i><br/><img  width = '500' src='/images/CELL_SPU.jpg' hspace='15'>"
+excerpt: "<i>A dual-issue Multimedia Processor based on CELL architecture.</i>  <br/>This project aims to design and implement the behavioral model SPU-lite multimedia processor in System Verilog.<br/><img width ='500' src='/images/CELL_SPU.jpg'>"
 collection: portfolio
 ---
 
