@@ -15,7 +15,6 @@ The emphasis is given on the design of the following aspects,
    * Handling structural hazards and data hazards (RAW, WAR and WAW)
    * Implementing the lite-ISA of 83 commands for SPU processor.
 
-<br/>
 <br/>  
 <span><a href='https://github.com/Karthik4293/Design-and-Implementation-of-CELL-SPU-lite-processor' target='_blank'><img style='float: left;' width = '40' src='/images/git.png'></a></span>
 <br/>
@@ -23,8 +22,6 @@ The emphasis is given on the design of the following aspects,
 <br/>
 References:  
 1. <span style="color:blue"><a href='https://www.karthik4293.me/files/Cell_microarchitecture' target='_blank'>"CELL MOVES INTO THE LIMELIGHT" By Kevin Krewell {2/14/05-01}</a></span>  
-<br/>
 2. <span style="color:blue"><a href='https://www.karthik4293.com/files/Microarchitecture_of_SPU' target='_blank'>""The Microarchitecture of the Synergistic Processor
 for a Cell Processor" IEEE journal of solid-state circuits, VOL. 41, NO. 1, JANUARY 2006</a></span>
-<br/>
 3. <span style="color:blue"><a href='https://www.karthik4293/files/SPU_ISA_v12' target='_blank'>"Synergistic Processor Unit Instruction Set Architecture - V12 </a></span>
