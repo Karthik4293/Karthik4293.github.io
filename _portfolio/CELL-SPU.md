@@ -5,7 +5,8 @@ collection: portfolio
 ---
 
 <i>A dual-issue Multimedia Processor based on CELL architecture.</i>
-##### March 2018  
+#### March 2018
+---------------------------------------------------------------------
 
 <br/>
 
