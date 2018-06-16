@@ -5,12 +5,15 @@ collection: portfolio
 ---
 
 <i>A dual-issue Multimedia Processor based on CELL architecture.</i>  
-######March 2018  
+###### March 2018  
 
 <br/>
 
 
 SONY CELL is a x64 multicore microprocessor which was based on Broadband Engine Architecture(BEA) and was commercially featured in Playstation 3. The Synergistic Processor Unit (SPU) is the integral part of CELL and is designed to accelerate the media and streaming workloads.
+
+<i>The Microarchitecture of the SPU processor</i><br/>
+<img src ='/images/CELL-SPU1.png'><br/>
 
 The project aims to design and implement the behavioral model SPU-lite multimedia processor in System Verilog.
 The emphasis is given on the design of the following aspects,
