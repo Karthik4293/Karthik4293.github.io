@@ -1,11 +1,14 @@
 ---
 title: "Design and modeling of CELL-SPU lite Processor"
-excerpt: "<i>A dual-issue Multimedia Processor based on CELL architecture.</i><br/><img width ='500' src='/images/CELL_SPU.jpg'><br/><br/>`Computer Architecture`"    "`GPU`"    "`System Verilog`"
+excerpt: "<i>A dual-issue Multimedia Processor based on CELL architecture.</i><br/><img width ='500' src='/images/CELL_SPU.jpg'><br/><br/>`Computer Architecture` `GPU` `System Verilog`"
 collection: portfolio
 ---
 
-<i>A dual-issue Multimedia Processor based on CELL architecture.</i><br/>  
+<i>A dual-issue Multimedia Processor based on CELL architecture.</i>  
+######March 2018  
+
 <br/>
+
 
 SONY CELL is a x64 multicore microprocessor which was based on Broadband Engine Architecture(BEA) and was commercially featured in Playstation 3. The Synergistic Processor Unit (SPU) is the integral part of CELL and is designed to accelerate the media and streaming workloads.
 
