@@ -1,6 +1,6 @@
 ---
 title: "Design and modeling of CELL-SPU"
-excerpt: "<i>A dual-issue Multimedia Processor based on CELL architecture.</i><br/><img style='float: right;' width = '500' src='/images/CELL_SPU.jpg' hspace='15'>"
+excerpt: "<i>A dual-issue Multimedia Processor based on CELL architecture.</i><br/><img  width = '500' src='/images/CELL_SPU.jpg' hspace='15'>"
 collection: portfolio
 ---
 
