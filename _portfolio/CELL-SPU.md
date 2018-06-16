@@ -7,8 +7,8 @@ excerpt: "
 <div class='w3-container'>
 
 <p align='left'>
-
-<img style='float: right;' width = '400' src='/images/CELL_SPU.jpg' hspace='15'>
+&nbsp;
+<img style='float: right;' width = '400' src='/images/CELL_SPU.jpg' hspace='15'>  
 
 <br/>
 
@@ -16,7 +16,7 @@ excerpt: "
 <i>A dual-issue Multimedia Processor based on CELL architecture.</i><br/>  
 <br/>
 
-This project aims to design and implement the behavioral model SPU-lite multimedia processor in System Verilog.  
+<q>This project aims to design and implement the behavioral model SPU-lite multimedia processor in System Verilog.</q>  
 <br/>
 <br/>  
 <span><a href='https://github.com/Karthik4293/Design-and-Implementation-of-CELL-SPU-lite-processor' target='_blank'><img style='float: left;' width = '40' src='/images/git.png'></a></span>
