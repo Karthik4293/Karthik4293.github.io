@@ -1,6 +1,6 @@
 ---
 title: "Design and modeling of CELL-SPU lite Processor"
-excerpt: "<i>A dual-issue Multimedia Processor based on CELL architecture.</i><br/><img width ='500' src='/images/CELL_SPU.jpg'>"
+excerpt: "<i>A dual-issue Multimedia Processor based on CELL architecture.</i><br/><img width ='500' src='/images/CELL_SPU.jpg'><br/><code>{background-color: red;}Computer Architecture</code>"
 collection: portfolio
 ---
 
@@ -22,6 +22,6 @@ The emphasis is given on the design of the following aspects,
 <br/>
 References:  
 1. <span style="color:blue"><a href='https://www.karthik4293.me/files/Cell_microarchitecture' target='_blank'>"CELL MOVES INTO THE LIMELIGHT" By Kevin Krewell {2/14/05-01}</a></span>  
-2. <span style="color:blue"><a href='https://www.karthik4293.com/files/Microarchitecture_of_SPU' target='_blank'>""The Microarchitecture of the Synergistic Processor
+2. <span style="color:blue"><a href='https://www.karthik4293.com/files/Microarchitecture_of_SPU' target='_blank'>"The Microarchitecture of the Synergistic Processor
 for a Cell Processor" IEEE journal of solid-state circuits, VOL. 41, NO. 1, JANUARY 2006</a></span>
-3. <span style="color:blue"><a href='https://www.karthik4293/files/SPU_ISA_v12' target='_blank'>"Synergistic Processor Unit Instruction Set Architecture - V12 </a></span>
+3. <span style="color:blue"><a href='https://www.karthik4293/files/SPU_ISA_v12' target='_blank'>Synergistic Processor Unit Instruction Set Architecture - V12 </a></span>
