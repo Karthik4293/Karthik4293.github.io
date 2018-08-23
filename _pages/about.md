@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello there Visitor,
+Hello Visitor,
 
-Thanks for stopping by. I'm still working on my portfolio. Feel free to wander around here.
+Thanks for visiting my corner of the internet. I am a
 
-good day 
+good day

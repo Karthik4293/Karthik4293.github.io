@@ -5,7 +5,12 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+
 ---
+## Download  
+<span style="color:blue"><a href='http://www.karthik4293.me/files/Resume.pdf' target='_blank'>Resume</a></span>  
+---
+
 ## Education
 ------  
 <img align="left" width="80" src="/images/SBU_logo_1.jpg">
@@ -31,7 +36,7 @@ B.E in Electronics and Communications <br/>
 <b>Research Assistant (Summer 2018)</b>  
 Advisor: <span style="color:blue"><a href='https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/deng' target='_blank'>Professor Yuefan Deng</a></span>  
 Research interests:  
-   - Deep local feature extraction for image retrieval
+   - GPU Systems and Architectures, applications of high performance computing to aid Artificial Intelligence.
    - High performance tests  
 
 <b>Graduate Teaching Assistant (Fall 2018)</b>  
@@ -46,14 +51,13 @@ Bangalore, India<br/>
 ## Technical expertise
 ------
 <b>Programming languages</b>
-   * C, C++ (CPP 11, STL, Multithreading, Boost), Java
+   * C, C++ (CPP 11, STL, Multithreading), Java
    * Scripting : Python, Shell Scripting
    * Hardware description : System Verilog
    * Simulation and EDA : MatLab Simulink, ModelSim  
 
 <b>Parallel Computing Frameworks</b>
    * CUDA
-   * OpenCL
    * OpenMP
    * MPI  
 
@@ -71,6 +75,3 @@ Bangalore, India<br/>
 * Neural Networks and Deep learning
 
 -----
-## Download
-
-<span style="color:blue"><a href='http://www.karthik4293.me/files/Resume.pdf' target='_blank'>Resume</a></span>  
